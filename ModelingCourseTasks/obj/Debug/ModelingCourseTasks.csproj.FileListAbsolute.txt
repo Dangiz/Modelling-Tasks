@@ -1,0 +1,14 @@
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe.config
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.pdb
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csprojAssemblyReference.cache
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csproj.CoreCompileInputs.cache
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.exe
+E:\Users\dangiz\Programms\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.pdb
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe.config
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.pdb
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csprojResolveAssemblyReference.cache
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csproj.CoreCompileInputs.cache
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.exe
+C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.pdb
