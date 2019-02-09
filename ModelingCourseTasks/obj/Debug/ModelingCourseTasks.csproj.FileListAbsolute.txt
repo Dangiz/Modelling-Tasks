@@ -12,3 +12,10 @@ C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debu
 C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csproj.CoreCompileInputs.cache
 C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.exe
 C:\Users\GizatullinDA\Downloads\ModelingCourseTasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.pdb
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe.config
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.pdb
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csprojResolveAssemblyReference.cache
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.csproj.CoreCompileInputs.cache
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.exe
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.pdb

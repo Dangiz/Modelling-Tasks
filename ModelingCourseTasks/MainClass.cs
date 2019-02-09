@@ -10,7 +10,9 @@ namespace ModelingCourseTasks
     {
         public static void Main(string[] args)
         {
-
+            BallBasket basket = new BallBasket();
+            BallColor[] combo = new BallColor[] { BallColor.White, BallColor.Blue, BallColor.Red };
+            Console.WriteLine(basket.BallCombinationTest(combo, 1000000));
         }
     }
 }
