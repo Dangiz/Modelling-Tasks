@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ModelingCourseTasks
+namespace RandValTasks
 {
     public enum BallColor { White,Blue,Red }
     public class BallBasket

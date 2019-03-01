@@ -103,9 +103,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ModelingCourseTasks\ModelingCourseTasks.csproj">
+    <ProjectReference Include="..\ModelingCourseTasks\1_DiffEqTasks.csproj">
       <Project>{977e0765-1da7-4a2c-8904-b3e435ffe390}</Project>
-      <Name>ModelingCourseTasks</Name>
+      <Name>1_DiffEqTasks</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,7 @@
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\obj\Debug\1_DiffEqTasks.csprojAssemblyReference.cache
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\obj\Debug\1_DiffEqTasks.csproj.CoreCompileInputs.cache
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.exe
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\obj\Debug\ModelingCourseTasks.pdb
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe.config
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.exe
+E:\Users\dangiz\Programms\Modelling-Tasks\ModelingCourseTasks\bin\Debug\ModelingCourseTasks.pdb

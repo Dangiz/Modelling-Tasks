@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28407.52
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelingCourseTasks", "ModelingCourseTasks\ModelingCourseTasks.csproj", "{977E0765-1DA7-4A2C-8904-B3E435FFE390}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_DiffEqTasks", "ModelingCourseTasks\1_DiffEqTasks.csproj", "{977E0765-1DA7-4A2C-8904-B3E435FFE390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfInterface", "WpfInterface\WpfInterface.csproj", "{429E9327-137A-4F23-830C-3BBE8E8D1DAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_DiffEqWpfInterface", "WpfInterface\1_DiffEqWpfInterface.csproj", "{429E9327-137A-4F23-830C-3BBE8E8D1DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_RandValTasks", "2_RandValTasks\2_RandValTasks.csproj", "{CD4EF32E-E113-4104-903B-834A793CA1E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{429E9327-137A-4F23-830C-3BBE8E8D1DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429E9327-137A-4F23-830C-3BBE8E8D1DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429E9327-137A-4F23-830C-3BBE8E8D1DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4EF32E-E113-4104-903B-834A793CA1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4EF32E-E113-4104-903B-834A793CA1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4EF32E-E113-4104-903B-834A793CA1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4EF32E-E113-4104-903B-834A793CA1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
