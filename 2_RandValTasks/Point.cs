@@ -15,6 +15,10 @@ namespace RandValTasks
             X = x;
             Y = y;
         }
+        public static double GetDistance(Point a, Point b)
+        {
+            return Math.Sqrt(Math.Pow(a.X - b.X, 2) + Math.Pow(a.Y - b.Y, 2));
+        }
 
         
     }

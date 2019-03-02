@@ -1,0 +1,7 @@
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\obj\Debug\2_RandValTasks.csprojResolveAssemblyReference.cache
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\obj\Debug\2_RandValTasks.csproj.CoreCompileInputs.cache
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\bin\Debug\2_RandValTasks.exe.config
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\bin\Debug\2_RandValTasks.exe
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\bin\Debug\2_RandValTasks.pdb
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\obj\Debug\2_RandValTasks.exe
+C:\Users\GizatullinDA\Documents\GitHub\Modelling-Tasks\2_RandValTasks\obj\Debug\2_RandValTasks.pdb

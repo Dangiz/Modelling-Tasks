@@ -10,6 +10,9 @@ namespace RandValTasks
     {
         static void Main(string[] args)
         {
+            var circleA = new Circle(0,0,1);
+            var circleB = new Circle(2, 0, 2);
+            Console.WriteLine(Circle.CaclCircleIntersectionArea(circleA, circleB));
         }
     }
 }
