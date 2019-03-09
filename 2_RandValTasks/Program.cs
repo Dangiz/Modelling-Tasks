@@ -10,9 +10,11 @@ namespace RandValTasks
     {
         static void Main(string[] args)
         {
-            var circleA = new Circle(0,0,1);
-            var circleB = new Circle(2, 0, 2);
-            Console.WriteLine(Circle.CaclCircleIntersectionArea(circleA, circleB));
+            Bombardment bombardment = new Bombardment(6,60,150,60,30, new Random());
+            int hits = 0;
+            for (int i = 0; i < 1000; i++)
+                hits += bombardment.BombsDropping();
+            Console.WriteLine($"{hits}/6000");
         }
     }
 }
