@@ -32,6 +32,10 @@ namespace RandValTasks
             return lastTImeMoment;
         }
 
+        public double GetNextInterval()
+        {
+            return -1 / Lambda * Math.Log(random.NextDouble());
+        }
 
     }
 }

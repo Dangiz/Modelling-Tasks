@@ -103,6 +103,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\2_RandValTasks\2_RandValTasks.csproj">
+      <Project>{cd4ef32e-e113-4104-903b-834a793ca1e7}</Project>
+      <Name>2_RandValTasks</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ModelingCourseTasks\1_DiffEqTasks.csproj">
       <Project>{977e0765-1da7-4a2c-8904-b3e435ffe390}</Project>
       <Name>1_DiffEqTasks</Name>
