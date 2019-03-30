@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using RandValTasks;
 using OxyPlot;
 using OxyPlot.Series;
+using OxyPlot.Axes;
 
 namespace WpfInterface
 {
@@ -40,34 +41,40 @@ namespace WpfInterface
             }
         }
 
-        private ColumnSeries IntervalsToSeries(List<double> intervals)
+        private PlotModel IntervalsToModel(List<double> intervals)
         {
             var max = intervals.Max();
             var min = intervals.Min();
             var step = (max - min) / 20;
-            var hitCountes = new double[40];
+            var hitCountes = new double[21];
 
             foreach (var interval in intervals)
             {
                 hitCountes[(int)(interval / step)]++;
             }
 
-           // hitCountes = hitCountes.Select(count => count / intervals.Count).ToArray();
+            // hitCountes = hitCountes.Select(count => count / intervals.Count).ToArray();
             var columnSeries = new ColumnSeries();
+            var categoryAxis = new CategoryAxis { Position = AxisPosition.Bottom };
 
-            foreach (var hitCount in hitCountes)
+            for (int i=0;i<hitCountes.Length;i++)
             {
-                columnSeries.Items.Add(new ColumnItem(hitCount));
+                columnSeries.Items.Add(new ColumnItem(hitCountes[i] / intervals.Count));//Points.Add(new ScatterPoint(i*step,hitCountes[i]));
+                categoryAxis.Labels.Add($"{(i*step):F}...{(i*step+step):F}");
             }
 
-            return columnSeries;
+            var model = new PlotModel();
+            model.Series.Add(columnSeries);
+            model.Axes.Add(categoryAxis);
+
+            return model;
         }
 
         private void SetPuassonModel()
         {
             DateTime startMoment = new DateTime(2019, 3, 18, 00, 00, 00);
             DateTime endMoment = new DateTime(2019, 3, 24, 23, 59, 00);
-            var generator = new PuassonStreamSequenceGenerator(0.1);
+            var generator = new PuassonStreamSequenceGenerator(10);
             var intervals = new List<double>();
             while (startMoment < endMoment)
             {
@@ -76,7 +83,9 @@ namespace WpfInterface
                 startMoment = startMoment.AddHours(interval);
                 Console.WriteLine(startMoment);
             }
-            Model.Series.Add(IntervalsToSeries(intervals));
+
+            Model = IntervalsToModel(intervals);
+
         }
 
         /// <summary>
